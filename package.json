@@ -1,0 +1,37 @@
+{
+  "name": "sohojpay-js-lib",
+  "version": "1.0.0",
+  "description": "Automate your Payment by SohojpayBD Payment Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitheforge/sohojpaybd-js-lib.git"
+  },
+  "keywords": [
+    "SohojpayBD",
+    "Sohojpay",
+    "BD",
+    "Payment",
+    "Gateway",
+    "Payment",
+    "Gateway",
+    "Best",
+    "Payment",
+    "Payment"
+  ],
+  "author": "BlitheForge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blitheforge/sohojpaybd-js-lib/issues"
+  },
+  "homepage": "https://github.com/blitheforge/sohojpaybd-js-lib#readme",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
